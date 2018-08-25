@@ -1,0 +1,27 @@
+
+
+
+.programmer{
+    color: blue;
+    border: 20px solid red;
+}
+
+.work{
+    color: yellow;
+}
+
+#unique{
+    color: blue;
+}
+
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+h10{
+    font-size: 14px;
+}
